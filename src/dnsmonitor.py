@@ -9,7 +9,7 @@ passwd="~"
 domainid="26856323"
 
 zabbixurl="http://10.185.30.222:8081/api_jsonrpc.php"
-zabbixuser="zhangdongsheng1"
+zabbixuser="xxx"
 zabbixpass="ZAQ123xsw"
 
 def addheader(request):
